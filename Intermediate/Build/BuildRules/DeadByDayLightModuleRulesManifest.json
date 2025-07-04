@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\MultiProject\\DeadByDayLight\\Source\\DeadByDayLight\\DeadByDayLight.Build.cs",
+		"C:\\MultiProject\\DeadByDayLight\\Source\\DeadByDayLight.Target.cs",
+		"C:\\MultiProject\\DeadByDayLight\\Source\\DeadByDayLightEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

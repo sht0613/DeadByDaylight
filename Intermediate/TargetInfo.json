@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DeadByDayLight",
+			"Path": "..\\Source\\DeadByDayLight.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DeadByDayLightEditor",
+			"Path": "..\\Source\\DeadByDayLightEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

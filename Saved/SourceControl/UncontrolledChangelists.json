@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/MultiProject/DeadByDayLight/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Meshes/SM_Ramp.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/__ExternalActors__/Shooting/Maps/GameMap/1/TQ/SU9HT5N3512U9FJ7NYDDDO.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/__ExternalActors__/Shooting/Maps/GameMap/5/DY/0SZ83FVEMI2AR9QB3D06R8.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/__ExternalActors__/Shooting/Maps/GameMap/8/ZK/0PXL99AIN7BS249JCQLBAM.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/__ExternalActors__/Shooting/Maps/GameMap/9/0J/O3YZ4W2RP7H3N6M44EPZOR.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/Shooting/Maps/GameMap.umap",
+				"C:/MultiProject/DeadByDayLight/Content/Shooting/BP_GM.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
+				"C:/MultiProject/DeadByDayLight/Content/LevelPrototyping/Materials/M_Solid.uasset"
+			]
+		}
+	]
+}
